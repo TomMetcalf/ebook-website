@@ -1,6 +1,10 @@
-# Ebook Website
+# Blog Mastery Ebook Website
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
+
+The hosted version of this site can be viewed here:
+
+https://blog-ebook-website.netlify.app
 
 <img src="./images/screen.png"  />
 
