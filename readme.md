@@ -2,6 +2,8 @@
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
+This was built to refamiliarise myself with using Bootstrap for creating professional looking, appealing and responsive layouts.
+
 The hosted version of this site can be viewed here:
 
 https://blog-ebook-website.netlify.app
